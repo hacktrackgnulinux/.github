@@ -1,7 +1,17 @@
 ## Hi there 👋 
 NOW ? BUILDING CODE NAME : RETURN VERSION : 2022.1  
-NOW > Nge-List Menu https://github.com/hacktrackgnulinux/menu  
+NOW >> Nge-List Menu https://github.com/hacktrackgnulinux/menu  
 Made with <span style="color: #e25555;">&#9829;</span> in Indonesia ![flag](http://www.flags-and-anthems.com/images/flags/i/flag-indonesia-wehende-flagge-12x18.gif)
+
+Agenda HackTrack 2022.1 Return   
+1. Pembuatan Core System. [Finish]  
+2. Pembuatan Artwork, Theme, Icons, Wallpaper. [Finish]  
+3. Pembuatan Repository Core. [Finish]  
+4. Pendataan Tools. [Now On Proses]  
+   NOW >> Membuat dan Mendata List Menu https://github.com/hacktrackgnulinux/menu    
+5. Pembuatan Repository Tools. [Next]  
+6. Pemasangan & Pengetesan Tools. [Next]  
+7. Publikasi dan Release [Next]  
 
  -------------------------------------------------------------
 2017- Present (New Team)  
