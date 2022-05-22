@@ -8,7 +8,7 @@ Agenda HackTrack 2022.1 Return
 2. Pembuatan Artwork, Theme, Icons, Wallpaper. [Finish]  
 3. Pembuatan Repository Core. [Finish]  
 4. Pendataan Tools. [Now On Proses]  
-   NOW >> Membuat dan Mendata List Menu https://github.com/hacktrackgnulinux/menu    
+   NOW >> Membuat dan Mendata Tools pada List Menu https://github.com/hacktrackgnulinux/menu    
 5. Pembuatan Repository Tools. [Next]  
 6. Pemasangan & Pengetesan Tools. [Next]  
 7. Publikasi dan Release [Next]  
