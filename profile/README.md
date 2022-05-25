@@ -16,6 +16,7 @@ Agenda HackTrack 2022.1 Return
  -------------------------------------------------------------
 2017- Present (New Team)  
 dindinG41T3 - LoliC0d3 - Antinomi  
+gagaltotal  
 
   -------------------------------------------------------------
 2017-2020 (Old Team)  
